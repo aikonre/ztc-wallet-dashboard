@@ -1,9 +1,9 @@
 # ZTC Wallet Dashboard
 
 A simple token balance checker built using **React**, **Vite**, and **Tailwind CSS**.  
-This dashboard simulates checking token balances for a given wallet address — perfect for testing Web3 front-end logic without needing blockchain integration.
+This dashboard simulates checking token balances for a given wallet address, perfect for testing Web3 front-end logic without needing blockchain integration.
 
-> 🔁 This project is an upgraded version of my earlier [Token Balance Dashboard (React-only)](https://github.com/aikonre/token-balance-dashboard), now enhanced with Tailwind CSS and Vite for better styling and performance.
+> 🔁 This project is an upgraded version of my earlier (https://github.com/aikonre/token-balance-dashboard), now enhanced with Tailwind CSS and Vite for better styling and performance.
 
 ---
 
