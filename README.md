@@ -26,7 +26,8 @@ This dashboard simulates checking token balances for a given wallet address, per
 
 ## 📸 Preview
 
-![Screenshot (31)](https://github.com/user-attachments/assets/015baa83-a142-4095-a382-6c65db3176cb)
+![test](https://github.com/user-attachments/assets/b02d24c4-9c1d-4deb-900d-b6b6e4eb4d72)
+
 
 ---
 
